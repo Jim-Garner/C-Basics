@@ -1,0 +1,11 @@
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.deps.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.runtimeconfig.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.runtimeconfig.dev.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.csprojAssemblyReference.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.csproj.CoreCompileInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.AssemblyInfoInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.AssemblyInfo.cs
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.pdb

@@ -1,0 +1,11 @@
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C# Basics\C-Basics\2D Arrays\2D Arrays\bin\Debug\netcoreapp2.1\2D Arrays.deps.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C# Basics\C-Basics\2D Arrays\2D Arrays\bin\Debug\netcoreapp2.1\2D Arrays.runtimeconfig.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C# Basics\C-Basics\2D Arrays\2D Arrays\bin\Debug\netcoreapp2.1\2D Arrays.runtimeconfig.dev.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C# Basics\C-Basics\2D Arrays\2D Arrays\bin\Debug\netcoreapp2.1\2D Arrays.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C# Basics\C-Basics\2D Arrays\2D Arrays\bin\Debug\netcoreapp2.1\2D Arrays.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C# Basics\C-Basics\2D Arrays\2D Arrays\obj\Debug\netcoreapp2.1\2D Arrays.csprojAssemblyReference.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C# Basics\C-Basics\2D Arrays\2D Arrays\obj\Debug\netcoreapp2.1\2D Arrays.csproj.CoreCompileInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C# Basics\C-Basics\2D Arrays\2D Arrays\obj\Debug\netcoreapp2.1\2D Arrays.AssemblyInfoInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C# Basics\C-Basics\2D Arrays\2D Arrays\obj\Debug\netcoreapp2.1\2D Arrays.AssemblyInfo.cs
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C# Basics\C-Basics\2D Arrays\2D Arrays\obj\Debug\netcoreapp2.1\2D Arrays.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C# Basics\C-Basics\2D Arrays\2D Arrays\obj\Debug\netcoreapp2.1\2D Arrays.pdb
