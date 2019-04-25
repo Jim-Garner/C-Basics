@@ -1,0 +1,19 @@
+public string Name
+        {
+            get //Accessor
+            {
+                return //variable name;
+            }
+            set //Mutator
+            {
+                if (value.Trim() != "")
+                {
+                    //variablename; = value; //Value equates to whatever is passed to it, in this case a new name;
+                }
+
+                else
+                {
+                    Console.WriteLine("Change to name was an empty string \r\n");
+                }
+            }
+        }
